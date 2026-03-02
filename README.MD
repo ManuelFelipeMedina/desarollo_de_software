@@ -32,4 +32,31 @@ la herramienta debe ser facil de usar y no requiera conocimientos tecnicos avanz
 -el sistema permite ingresar una o mas operaciones 
 -para cada operacion valida: se calcula el costo individual correctamente y se muestra el valor calculado
 -el sistema muestra el total consolidado de todas las operaciones   
+
+--diagrama de casos.png
+
+--DIAGRAMA CASOS DE USO EXTENDIDO:
+-nombre: Calculador costo operaciones
+-actores: Dueño veterinaria
+-proposito:Registrar datos y Calcular el costo de una operacion
+
+--CURSO DE EVENTOS:
+
+1.el dueño ingresa la cantidad de operaciones a procesar
+
+2.para cada operacion:
+	-el dueño ingresa el codigo de la operacion
+	-el dueño ingresa el nombre de la operacion
+	-el dueño ingresa el nombre del doctor
+	-el dueño ingresa la duracion de la operacion
+	-el dueño ingresa el salario por hora del doctor
+
+3.Una vez capturados todos los empleados, el sistema recorre nuevamente la informacion almacenada y calcula el costo individual de cada operacion mediante la operacion:
+	-duracion * salario por hora del doctor
+
+4.acomula cada resultado en una variable que representa el total de todas las operaciones
+
+5.la alpicacion miestra el total consolidado de todas las operacion
+
+Postcondicion: el total nomina mensual a sido calculado y mostrado al usuario
                                                                                                      
