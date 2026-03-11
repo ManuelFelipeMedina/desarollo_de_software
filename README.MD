@@ -1,13 +1,13 @@
 | Contenidos  |
 | ----------- |
 | [ENUNCIADO EJERCICIO](https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/README.MD#enunciado-ejercicio).   |
-| HISTORIA DE USUARIO   |
-| DESCIPCION   |
-| REQUISITOS |
-| CRITERIOS DE ACCEPTACION |
-| DIAGRAMA CASOS DE USO |
-| DIAGRAMA CASOS DE USO EXTENDIDO |
-| CURSO DE EVENTOS |
+| [HISTORIA DE USUARIO](https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/README.MD#historia-de-usuario).  |
+| [DESCIPCION] (https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/README.MD#descipcion) |
+| [REQUISITOS] (https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/README.MD#requisitos) |
+| [CRITERIOS DE ACCEPTACION] (https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/README.MD#criterios-de-acceptacion) |
+| [DIAGRAMA CASOS DE USO] (https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/README.MD#diagrama-casos-de-uso-extendido) |
+| [DIAGRAMA CASOS DE USO EXTENDIDO](https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/README.MD#curso-de-eventos) |
+| [CURSO DE EVENTOS] |
 | PSEUDOCODIGO |
 
 
@@ -46,6 +46,7 @@ la herramienta debe ser facil de usar y no requiera conocimientos tecnicos avanz
 - para cada operacion valida: se calcula el costo individual correctamente y se muestra el valor calculado.
 - el sistema muestra el total consolidado de todas las operaciones.  
 
+## DIAGRAMA CASOS DE USO
 ![alt text](https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/DIAGRAMA%20CASOS%20DE%20USO.png)
 
 
