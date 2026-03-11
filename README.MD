@@ -1,3 +1,16 @@
+| Contenidos  |
+| ----------- |
+| ENUNCIADO EJERCICIO    |
+| HISTORIA DE USUARIO   |
+| DESCIPCION   |
+| REQUISITOS |
+| CRITERIOS DE ACCEPTACION |
+| DIAGRAMA CASOS DE USO |
+| DIAGRAMA CASOS DE USO EXTENDIDO |
+| CURSO DE EVENTOS |
+| PSEUDOCODIGO |
+
+
 ## ENUNCIADO EJERCICIO
 se te ha encargado el desarrollo de una aplicacion de softwater para una vetrinaria que necesita calcula el precio de una operacion segun el numero de horas que toma y el salario por hora acordado por el doctor que la perfoma. La aplicacion debe registral el codigo y el nombre de la operacion, las horas que toma cada operacion y el salario por hora de cada doctor
 
@@ -46,14 +59,14 @@ la herramienta debe ser facil de usar y no requiera conocimientos tecnicos avanz
 1. el dueño ingresa la cantidad de operaciones a procesar.
 
 2. para cada operacion:
-> -   el dueño ingresa el codigo de la operacion.
+> -  el dueño ingresa el codigo de la operacion.
 > - el dueño ingresa el nombre de la operacion.
 > - el dueño ingresa el nombre del doctor.
 > - el dueño ingresa la duracion de la operacion.
 > - el dueño ingresa el salario por hora del doctor.
 
 3. Una vez capturados todos los empleados, el sistema recorre nuevamente la informacion almacenada y calcula el costo individual de cada operacion mediante la operacion:
-	-duracion * salario por hora del doctor.
+	### duracion * salario por hora del doctor.
 
 4. acomula cada resultado en una variable que representa el total de todas las operaciones.
 
