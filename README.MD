@@ -63,15 +63,23 @@ Postcondicion: el total nomina mensual a sido calculado y mostrado al usuario.
 
 ## PSEUDOCODIGO:
 `inicio
-caractres:identificaciones[50],nombres_operaciones[50],nombres_doctores[50].
-Real:duraciones_operaciones[50],salario_por_hora[50].
-caracteres: identificacion, nombre_operaciones, nombre_doctores.
-Entero: numero_operaciones, i.
-real: duracion_operacion,salario_por_hora, totaloperacionees <- 0.
+caractres:identificaciones[50],nombres_operaciones[50],nombres_doctores[50]
+
+Real:duraciones_operaciones[50],salario_por_hora[50]
+
+caracteres: identificacion, nombre_operaciones, nombre_doctore.
+
+Entero: numero_operaciones, i
+
+real: duracion_operacion,salario_por_hora, totaloperacionees <- 0
+
 imprimir: "digite el numero de operaciones: "
+
 asignar: numero_operaciones
+
 para i = 0 hasta numero_operaciones - 1, 1
-	imprimir: "digite la identificacion de la operacion"
+
+imprimir: "digite la identificacion de la operacion"
 	asignar: identificacion
 	imprimir:"digite el nombre de la operacion"
 	asignar:nombre_operaciones
@@ -87,10 +95,13 @@ para i = 0 hasta numero_operaciones - 1, 1
 	nombres_doctores[i] <- nombre_doctores
 	salario_por_hora[i] <- salario_por_hora
 finPara
+
 para i = 0 hasta numero_operaciones - 1, 1
 	totaloperacionees <- totaloperacionees + (duraciones_operaciones[i] * salario_por_hora[i])
 finPara
+
 imprimir: "el total de las operaciones es: " + totaloperacionees
+
 fin`
 
                                                                                                      
