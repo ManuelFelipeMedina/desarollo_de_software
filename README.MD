@@ -59,6 +59,7 @@ la herramienta debe ser facil de usar y no requiera conocimientos tecnicos avanz
 1. el dueño ingresa la cantidad de operaciones a procesar.
 
 2. para cada operacion
+
     1. el dueño ingresa el codigo de la operacion.
     2. el dueño ingresa el nombre de la operacion.
 	3. el dueño ingresa el nombre del doctor. 
