@@ -2,13 +2,13 @@
 | ----------- |
 | [ENUNCIADO EJERCICIO](https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/README.MD#enunciado-ejercicio).   |
 | [HISTORIA DE USUARIO](https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/README.MD#historia-de-usuario).  |
-| [DESCIPCION](https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/README.MD#descipcion) |
-| [REQUISITOS](https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/README.MD#requisitos) |
-| [CRITERIOS DE ACCEPTACION] (https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/README.MD#criterios-de-acceptacion) |
-| [DIAGRAMA CASOS DE USO](https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/README.MD#diagrama-casos-de-uso) |
-| [DIAGRAMA CASOS DE USO EXTENDIDO](https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/README.MD#diagrama-casos-de-uso-extendido) |
-| [CURSO DE EVENTOS](https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/README.MD#curso-de-eventos) |
-| [PSEUDOCODIGO](https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/README.MD#pseudocodigo) |
+| [DESCIPCION](https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/README.MD#descipcion). |
+| [REQUISITOS](https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/README.MD#requisitos). |
+| [CRITERIOS DE ACCEPTACION] (https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/README.MD#criterios-de-acceptacion). |
+| [DIAGRAMA CASOS DE USO](https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/README.MD#diagrama-casos-de-uso). |
+| [DIAGRAMA CASOS DE USO EXTENDIDO](https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/README.MD#diagrama-casos-de-uso-extendido). |
+| [CURSO DE EVENTOS](https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/README.MD#curso-de-eventos). |
+| [PSEUDOCODIGO](https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/README.MD#pseudocodigo). |
 
 
 ## ENUNCIADO EJERCICIO
