@@ -78,7 +78,7 @@ la herramienta debe ser fácil de usar y no requiera conocimientos técnicos ava
 6. Postcondición: el total nomina mensual a sido calculado y mostrado al usuario.
 
 ## DIAGRAMA DE FLUJO
-![alt text](https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/Diagrama_dise%C3%B1o_software.drawio.png)
+![alt text](https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/Diagrama_dise%C3%B1o_software.drawio(1).png)
 
 
 
