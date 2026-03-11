@@ -62,7 +62,7 @@ la herramienta debe ser facil de usar y no requiera conocimientos tecnicos avanz
 Postcondicion: el total nomina mensual a sido calculado y mostrado al usuario.
 
 ## PSEUDOCODIGO:
-`inicio
+` inicio
 caractres:identificaciones[50],nombres_operaciones[50],nombres_doctores[50]
 
 Real:duraciones_operaciones[50],salario_por_hora[50]
@@ -119,6 +119,6 @@ finPara
 
 imprimir: "el total de las operaciones es: " + totaloperacionees
 
-fin`
+fin `
 
                                                                                                      
