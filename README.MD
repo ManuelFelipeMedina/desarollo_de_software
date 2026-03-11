@@ -80,24 +80,41 @@ asignar: numero_operaciones
 para i = 0 hasta numero_operaciones - 1, 1
 
 imprimir: "digite la identificacion de la operacion"
+	
 	asignar: identificacion
+	
 	imprimir:"digite el nombre de la operacion"
+	
 	asignar:nombre_operaciones
+	
 	imprimir:"digite las duracion de la operacion"
+	
 	asignar:duracion_operacion
+	
 	imprimir:"digite el nombre del doctor"
+	
 	asignar:nombre_doctor
+	
 	imprimir:"digite el salario por hora del doctor"
+	
 	asignar:salario_por_hora
+	
 	identificaciones[i] <- identificacion
+	
 	nombres_operaciones[i] <- nombre_operaciones
+	
 	duraciones_operaciones[i] <- duracion_operacion
+
 	nombres_doctores[i] <- nombre_doctores
+
 	salario_por_hora[i] <- salario_por_hora
+
 finPara
 
 para i = 0 hasta numero_operaciones - 1, 1
+
 	totaloperacionees <- totaloperacionees + (duraciones_operaciones[i] * salario_por_hora[i])
+
 finPara
 
 imprimir: "el total de las operaciones es: " + totaloperacionees
