@@ -33,7 +33,8 @@ la herramienta debe ser facil de usar y no requiera conocimientos tecnicos avanz
 > - para cada operacion valida: se calcula el costo individual correctamente y se muestra el valor calculado.
 > - el sistema muestra el total consolidado de todas las operaciones.  
 
---diagrama de casos.png
+![alt text](https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/DIAGRAMA%20CASOS%20DE%20USO.png)
+
 
 ## DIAGRAMA CASOS DE USO EXTENDIDO:
 > - nombre: Calculador costo operaciones.
