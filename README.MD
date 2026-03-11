@@ -60,11 +60,11 @@ la herramienta debe ser facil de usar y no requiera conocimientos tecnicos avanz
 
 2. para cada operacion
 
-    1. el dueño ingresa el codigo de la operacion.
-    2. el dueño ingresa el nombre de la operacion.
-	3. el dueño ingresa el nombre del doctor. 
-	4. el dueño ingresa la duracion de la operacion.
-	5. el dueño ingresa el salario por hora del doctor.
+    1. el dueño ingresa el codigo de la operacion
+    2. el dueño ingresa el nombre de la operacion
+	3. el dueño ingresa el nombre del doctor 
+	4. el dueño ingresa la duracion de la operacion
+	5. el dueño ingresa el salario por hora del doctor
 
 3. Una vez capturados todos los empleados, el sistema recorre nuevamente la informacion almacenada y calcula el costo individual de cada operacion mediante la operacion:
 	### duracion * salario por hora del doctor.
