@@ -8,6 +8,7 @@
 | [DIAGRAMA CASOS DE USO](https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/README.MD#diagrama-casos-de-uso). |
 | [DIAGRAMA CASOS DE USO EXTENDIDO](https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/README.MD#diagrama-casos-de-uso-extendido). |
 | [CURSO DE EVENTOS](https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/README.MD#curso-de-eventos). |
+| [DIAGRAMA FLUJO](https://github.com/ManuelFelipeMedina/desarollo_de_software?tab=readme-ov-file#diagrama-de-flujo). |
 | [PSEUDOCODIGO](https://github.com/ManuelFelipeMedina/desarollo_de_software/blob/main/README.MD#pseudocodigo). |
 
 
