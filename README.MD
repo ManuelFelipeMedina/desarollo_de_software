@@ -1,5 +1,5 @@
-<h1>ENUNCIADO EJERCICIO<\h1>
-
+ENUNCIADO EJERCICIO
+---------------
 se te ha encargado el desarrollo de una aplicacion de softwater para una vetrinaria que necesita calcula el precio de una operacion segun el numero de horas que toma y el salario por hora acordado por el doctor que la perfoma. La aplicacion debe registral el codigo y el nombre de la operacion, las horas que toma cada operacion y el salario por hora de cada doctor
 
 -el numero de horas puede variar entre operaciones y el salrio puede variar entre doctores
