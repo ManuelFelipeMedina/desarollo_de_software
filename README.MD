@@ -37,7 +37,7 @@ la herramienta debe permitirte ingresar los siguiented datos de cada operacion:
 - el salario por hora del doctor.
 - calcular la nomina mensual individual de cada empleado mediante la formula:
 
-### costo operacion = duracion operacion * salario por hora del doctor.
+#### costo operacion = duracion operacion * salario por hora del doctor.
 
 la herramienta debe ser facil de usar y no requiera conocimientos tecnicos avanzados.
 
@@ -67,13 +67,13 @@ la herramienta debe ser facil de usar y no requiera conocimientos tecnicos avanz
 	5. el dueño ingresa el salario por hora del doctor
 
 3. Una vez capturados todos los empleados, el sistema recorre nuevamente la informacion almacenada y calcula el costo individual de cada operacion mediante la operacion:
-	### duracion * salario por hora del doctor.
+	#### duracion * salario por hora del doctor.
 
 4. acomula cada resultado en una variable que representa el total de todas las operaciones.
 
 5. la alpicacion miestra el total consolidado de todas las operacion.
 
-- Postcondicion: el total nomina mensual a sido calculado y mostrado al usuario.
+6. Postcondicion: el total nomina mensual a sido calculado y mostrado al usuario.
 
 ## PSEUDOCODIGO:
 ```
