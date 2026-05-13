@@ -26,7 +26,7 @@ def main():
           salario_hora = input("digite el sueldo por hora del empleado: ")
 
 
-          Operaciones = Operacion(identificacion,nombre_operacion,nombre_docotor,duracion_operacion,salario_hora)
+          Operaciones = Operacion(identificacion_operacion,nombre_operacion,nombre_docotor,duracion_operacion,salario_hora)
           Operaciones.append(Operacion)
 
      costo_total = sum(emp.calcular_salario_total() for op in Operaciones)
